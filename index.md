@@ -21,9 +21,9 @@ What I Did / Decided: I engineered workflows in Python and DuckDB to handle 78-m
 
 Outcome: Delivered a clean, leakage-free classification pipeline with self-testing assertions that automatically flag data integrity errors during runtime.
 
-🤖 Ask My AI Agent
-Want to know more about my architectural decisions, how I handle extreme computational constraints, or my problem-solving approach? 👉 Chat with my AI Copilot here
-
+## 🤖 Ask My AI Agent
+Want to know more about my technical decisions, code architecture, or problem-solving approach? 
+👉 **[Chat with my AI Copilot here](https://poe.com/preview/ENtCXtLFc8TKn2Ot8PED)**
 📬 Contact
 
 GitHub: github.com/meltemcelik
