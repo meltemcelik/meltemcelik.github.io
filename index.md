@@ -23,7 +23,7 @@ Outcome: Delivered a clean, leakage-free classification pipeline with self-testi
 
 ## 🤖 Ask My AI Agent
 Want to know more about my technical decisions, code architecture, or problem-solving approach? 
-👉 **[Chat with my AI Copilot here](https://poe.com/preview/ENtCXtLFc8TKn2Ot8PED)**
+👉 **[Chat with my AI Copilot here](https://poe.com/preview/9bjSSyqp1bOvhlfvTiWl)**
 📬 Contact
 
 GitHub: github.com/meltemcelik
